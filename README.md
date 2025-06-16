@@ -1,0 +1,2 @@
+# OpenEFCHSword
+OpenEFCHSword是EFCHSword开源版本,OpenEFCHSword是一款Windows平台上的Ark&amp;计算机管理工具
